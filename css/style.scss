@@ -17,7 +17,7 @@
     $fw-reg: 300;
     $fw-bold: 900;
 
-    $clr-light: #fff;
+    $clr-light: rgb(241, 241, 241);
     $clr-dark: #303030;
     $clr-accent: #16e0bd;
 
@@ -37,10 +37,11 @@
     }
 }
 
-// General Styles  ////////////////////
+// General Styles  ///////////////////////////////////////////
 
-body{
+body {
     background-color: $clr-light;
+    background-color: red;
     color: $clr-dark;
     margin: 0;
     font-family: $ff-primary;
