@@ -1,5 +1,3 @@
-# Dev-Jane
-
-## Project Website
+# Dev-Jane Project Website
 
 https://braumski.github.io/Dev-Jane
